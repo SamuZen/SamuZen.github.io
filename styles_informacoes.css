@@ -1,0 +1,78 @@
+/* styles.css */
+
+/* Estilos para o cabeçalho */
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  h1 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 32px;
+    margin: 0;
+  }
+  
+  nav {
+    margin-top: 20px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    transition: color 0.3s ease;
+  }
+  
+  nav ul li a:hover {
+    color: #ffcc00;
+  }
+  
+  section {
+    background-color: #f7f7f7;
+    padding: 40px;
+    margin-bottom: 30px;
+  }
+  
+  section h2 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    margin: 0 0 20px;
+  }
+  
+  section article {
+    margin-bottom: 20px;
+  }
+  
+  section article h3 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    margin: 0 0 10px;
+  }
+  
+  section article ul {
+    list-style-type: disc;
+    margin: 0 0 10px 20px;
+    padding: 0;
+  }
+  
+  section article ul li {
+    margin-bottom: 5px;
+  }
+  
